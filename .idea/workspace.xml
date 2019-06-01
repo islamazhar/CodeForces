@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="codeforces" targetName="CodeFroces" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bea6d24b-09f9-44bc-a12a-f0d13961437d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/CodeFroces.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rounds/codeforces-round-562-Div-2/C.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../111.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2014_CertificateContestantPlace_ACM-ICPC_Dhaka_2014_Preliminary_184471.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2014_CertificateContestantPlace_Asia_Dhaka_2014_187582.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6536.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Books/Dawn of Programming Contest (March 2015).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/ Codeforces Round #372 (Div. 2)_/A.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/ Codeforces Round #372 (Div. 2)_/B.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/ Codeforces Round #372 (Div. 2)_/C" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/ Codeforces Round #372 (Div. 2)_/C.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/ Codeforces Round #372 (Div. 2)_/C.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/ Codeforces Round #372 (Div. 2)_/out.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Bear and Colors.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Bear and Colors.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Bear and Colors.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #352 (Div. 2)/A.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #352 (Div. 2)/A.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #352 (Div. 2)/A.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #352 (Div. 2)/B.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #352 (Div. 2)/C.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #352 (Div. 2)/in.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #360 (Div. 2)/A.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #360 (Div. 2)/A.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #360 (Div. 2)/A.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #360 (Div. 2)/B.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #360 (Div. 2)/B.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #360 (Div. 2)/B.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #360 (Div. 2)/C.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #360 (Div. 2)/C.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #360 (Div. 2)/C.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #360 (Div. 2)/in.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #364 (Div. 2)/B.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #364 (Div. 2)/C" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #364 (Div. 2)/C.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #364 (Div. 2)/C.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #364 (Div. 2)/C.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #364 (Div. 2)/in.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #367 (Div.2)/A.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #367 (Div.2)/A.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #367 (Div.2)/A.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #367 (Div.2)/B.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #367 (Div.2)/B.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #367 (Div.2)/B.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #367 (Div.2)/C.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #367 (Div.2)/C.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #367 (Div.2)/C.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #367 (Div.2)/D.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #367 (Div.2)/in.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #368 (Div. 2)/A.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #368 (Div. 2)/B" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #368 (Div. 2)/B.cp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #368 (Div. 2)/B.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #368 (Div. 2)/B.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #368 (Div. 2)/C" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #368 (Div. 2)/C.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #368 (Div. 2)/C.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #368 (Div. 2)/Product Sum.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #368 (Div. 2)/Product Sum.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #370 (Div. 2)_/A" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #370 (Div. 2)_/A.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #370 (Div. 2)_/A.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #370 (Div. 2)_/B" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #370 (Div. 2)_/B.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #370 (Div. 2)_/B.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #370 (Div. 2)_/C" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #370 (Div. 2)_/C.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #370 (Div. 2)_/C.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #371 (Div. 2)_/A" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #371 (Div. 2)_/A.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #371 (Div. 2)_/A.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #371 (Div. 2)_/B" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #371 (Div. 2)_/B.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #371 (Div. 2)_/B.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #371 (Div. 2)_/C" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #371 (Div. 2)_/C.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #371 (Div. 2)_/C.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #371 (Div. 2)_/in.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #374 (Div. 2)/A.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #374 (Div. 2)/A.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #374 (Div. 2)/A.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #374 (Div. 2)/B.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #374 (Div. 2)/B.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #374 (Div. 2)/B.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #374 (Div. 2)/C.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #374 (Div. 2)/C.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #374 (Div. 2)/C.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #374 (Div. 2)/D.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #374 (Div. 2)/in.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #375 (Div. 2)_/A_A" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #375 (Div. 2)_/A_A.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #375 (Div. 2)_/A_A.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #375 (Div. 2)_/B_B" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #375 (Div. 2)_/B_B.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #375 (Div. 2)_/B_B.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #375 (Div. 2)_/C_C" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #375 (Div. 2)_/C_C.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #375 (Div. 2)_/C_C.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #375 (Div. 2)_/D_D" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #375 (Div. 2)_/D_D.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #375 (Div. 2)_/D_D.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #377 (Div. 2)/D" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #377 (Div. 2)/D.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #377 (Div. 2)/D.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #377 (Div. 2)/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #377 (Div. 2)/in.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #381 (Div. 2)/A.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #381 (Div. 2)/AA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #381 (Div. 2)/AA.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #381 (Div. 2)/AA.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #381 (Div. 2)/B" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #381 (Div. 2)/B.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #381 (Div. 2)/B.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #381 (Div. 2)/in.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #382 (Div. 2)/A.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #382 (Div. 2)/A.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #382 (Div. 2)/A.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #382 (Div. 2)/B.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #382 (Div. 2)/B.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #382 (Div. 2)/B.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #382 (Div. 2)/C.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #382 (Div. 2)/C.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #382 (Div. 2)/C.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #382 (Div. 2)/D.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Codeforces Round #382 (Div. 2)/in.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/Grandma Laura and Apples.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rounds/codeforces-round-562-Div-2/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Rounds/codeforces-round-562-Div-2/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/All_combined_Mine/BFS.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/All_combined_Mine/DFS_Stack.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/All_combined_Mine/Dijkstra.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/All_combined_Mine/DirectedMST.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/All_combined_Mine/articulationBridge" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/All_combined_Mine/articulationBridge.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/All_combined_Mine/articulationBridge.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/All_combined_Mine/articulationPoint.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/All_combined_Mine/cellCheck.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/All_combined_Mine/maxFlow.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/All_combined_Mine/segment_tree_(with Lazy_propagation).cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/All_combined_Mine/ssc.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Bidan Roy Codes from github/Data Structures/Binary Indexed Tree.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Bidan Roy Codes from github/Data Structures/Fraction Class.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Bidan Roy Codes from github/Data Structures/Minimum Subsequent Value.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Bidan Roy Codes from github/Data Structures/Range Minimum Query ( Frenwick Tree ).cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Bidan Roy Codes from github/Data Structures/Splay Tree.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Bidan Roy Codes from github/Geometry/Intersections/intersections.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Bidan Roy Codes from github/Geometry/Others/atan2 Adapter.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Bidan Roy Codes from github/Geometry/Polygon related codes/area of a 2D polygon.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Bidan Roy Codes from github/Geometry/Polygon related codes/convex hull ( 2D ).cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Bidan Roy Codes from github/Geometry/Polygon related codes/convex hull (3D).cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Bidan Roy Codes from github/Geometry/Structures &amp; classes used in my code/line.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Bidan Roy Codes from github/Geometry/Structures &amp; classes used in my code/point .cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Bidan Roy Codes from github/Geometry/Structures &amp; classes used in my code/point(3D).cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Bidan Roy Codes from github/Geometry/Structures &amp; classes used in my code/segment.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Bidan Roy Codes from github/Geometry/geometry template extension.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Bidan Roy Codes from github/Graph Algorithms &amp; Data Structures/Bipartite Matching ( Hopcroft Karp ).cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Bidan Roy Codes from github/Graph Algorithms &amp; Data Structures/Maximum Flow ( Dinic's Algorithm ).cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Bidan Roy Codes from github/Graph Algorithms &amp; Data Structures/Minimum Cost Maximum Flow.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Bidan Roy Codes from github/Graph Algorithms &amp; Data Structures/Strongly Connected Component ( Tarjan ) .cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Bidan Roy Codes from github/Mathematics/Big Modular Exponentiation.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Bidan Roy Codes from github/Mathematics/Chinese Remainder Theorem.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Bidan Roy Codes from github/Mathematics/Matrix Exponentiation.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Bidan Roy Codes from github/Miscellaneous Codes/Fast Input.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Bidan Roy Codes from github/Miscellaneous Codes/Roman - Decimal Converter ( Both way ).cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Bidan Roy Codes from github/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Bidan Roy Codes from github/Sample Codes/Knuth Optimization ( Uva 10304 ).cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Bidan Roy Codes from github/String Algorithms &amp; Data Structures/KMP.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Bidan Roy Codes from github/String Algorithms &amp; Data Structures/Manacher.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Bidan Roy Codes from github/String Algorithms &amp; Data Structures/Minimum Lexicographical Rotation O ( N ) .cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Bidan Roy Codes from github/String Algorithms &amp; Data Structures/String Class Tokenization.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Bidan Roy Codes from github/String Algorithms &amp; Data Structures/Suffix Array.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Bidan Roy Codes from github/String Algorithms &amp; Data Structures/Suffix Automata.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Bidan Roy Codes from github/String Algorithms &amp; Data Structures/Trie.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Bidan Roy Codes from github/Templates/Debug Extensions.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Bidan Roy Codes from github/Templates/google codejam template.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Bidan Roy Codes from github/Templates/online contest template (C++11).cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Bidan Roy Codes from github/Templates/online contest template.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Template.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team selection contest 2016/Teams/Regionals 2013 :: Asia - Jakarta [Cloned] [Cloned] /A" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team selection contest 2016/Teams/Regionals 2013 :: Asia - Jakarta [Cloned] [Cloned] /A.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team selection contest 2016/Teams/Regionals 2013 :: Asia - Jakarta [Cloned] [Cloned] /A.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/-2012_0508_RT3290_Linux_STA_v2.6.0.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/-2012_0508_RT3290_Linux_STA_v2.6.0.0.bz2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/AgeEncoding.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/AgeEncoding.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/AgeEncoding.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/AgeEncoding.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/Autohamil.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/Autohamil.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/BuildingHeights.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/BuildingHeights.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/CandleTimerEasy.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/CandleTimerEasy.cpp.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/CandleTimerEasy.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/CodeProcessor.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../TopCoder/CodeProcessor.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/CoinFlipsDiv2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/CoinFlipsDiv2.cpp.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/CoinFlipsDiv2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/CoinFlipsDiv2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/CoinFlipsDiv2.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/ContestAppletProd.jnlp" beforeDir="false" afterPath="$PROJECT_DIR$/../TopCoder/ContestAppletProd.jnlp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/DivFreed2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/DivFreed2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/DivFreed2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/DivFreed2.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/DropCoins.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/DropCoins.cpp.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/DropCoins.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/EelAndRabbit.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/EelAndRabbit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/ElephantDrinkingEasy.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/ElephantDrinkingEasy.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/ElephantDrinkingEasy.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/ExplodingRobots.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/ExplodingRobots.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/ExplodingRobots.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/ExplodingRobots.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/FileEdit.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../TopCoder/FileEdit.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/IdentifyingWood.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/IdentifyingWood.cpp.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/IdentifyingWood.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/IdentifyingWood.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/IdentifyingWood.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/Initials.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/Initials.hmtl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/InterestingNumber.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/InterestingNumber.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/InterestingNumber.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/Istr.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/Istr.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/Istr.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/Istr.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/LCMSetEasy.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/LCMSetEasy.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/LCMSetEasy.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/LastDigit" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/LastDigit.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/LastDigit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/LastDigit.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/LonglongestPathTree.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/LonglongestPathTree.cpp.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/LonglongestPathTree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/MagicDiamonds.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/MagicDiamonds.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/MagicDiamonds.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/MagicDiamonds.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/MultiplicationTable2Easy.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/MultiplicationTable2Easy.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/MultiplicationTable2Easy.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/MultiplicationTable2Easy.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/NamingConvention.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/NamingConvention.cpp.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/NamingConvention.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/NamingConvention.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/NamingConvention.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/NarrowPassage2Easy.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/NarrowPassage2Easy.cpp.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/NarrowPassage2Easy.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/NarrowPassage2Easy.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/NarrowPassage2Easy.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/New Text Document.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/ORSolitaireDiv2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/ORSolitaireDiv2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/PalindromicSubstringsDiv2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/PalindromicSubstringsDiv2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/PalindromicSubstringsDiv2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/ParenthesesDiv2Easy.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/PotentialGeometricSequence.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/PotentialGeometricSequence.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/QuadraticLaw.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/QuadraticLaw.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/QuadraticLaw.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/QuadraticLaw.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/RainyRoad.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/RainyRoad.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/RainyRoad.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/RainyRoad.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/RunningAroundPark.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/RunningAroundPark.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/RunningAroundPark.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/RunningAroundPark.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/SRM 701/MultiplicationTable2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/SRM 701/MultiplicationTable2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/SRM 701/MultiplicationTable2.cpp.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/SRM 701/MultiplicationTable2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/SRM 701/MultiplicationTable2.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/SRM 701/PartisanGame.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/SRM 701/PartisanGame.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/SRM 701/RepeatString.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/SRM 701/RepeatString.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/SRM 701/SortingSubsets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/SRM 701/SortingSubsets.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/SRM 701/SortingSubsets.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/SRM 701/SortingSubsets.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/SRM 701/SquareFreeString.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/SRM 701/SquareFreeString.cpp.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/SRM 701/SquareFreeString.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/SRM 701/SquareFreeString.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/SRM 701/ThueMorseGame.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/SRM 701/ThueMorseGame.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/SwappingDigits.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/SwappingDigits.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/TZTester.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../TopCoder/TZTester.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/UpDownHiking" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/UpDownHiking.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/UpDownHiking.cpp.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/UpDownHiking.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/UpDownHiking.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/XorLists.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/XorLists.cpp.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/XorLists.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/Xylophone.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopCoder/Xylophone.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notebook.pdf" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Rounds/codeforces-round-562-Div-2/C.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="19" column="32" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="32" />
+              <folding>
+                <element signature="e#51#69#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="70">
+              <caret line="5" column="67" selection-start-line="5" selection-start-column="67" selection-end-line="5" selection-end-column="67" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Rounds/Codeforces Round #382 (Div. 2)/A.cpp" />
+        <option value="$PROJECT_DIR$/Rounds/codeforces-round-562-Div-2/B.cpp" />
+        <option value="$PROJECT_DIR$/Rounds/codeforces-round-562-Div-2/README.md" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/Rounds/codeforces-round-562-Div-2/A.cpp" />
+        <option value="$PROJECT_DIR$/Rounds/codeforces-round-562-Div-2/C.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="codeforces" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodeFroces" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codeforces" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodeFroces" type="462c0819:PsiDirectoryNode" />
+              <item name="cmake-build-debug" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codeforces" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodeFroces" type="462c0819:PsiDirectoryNode" />
+              <item name="Rounds" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codeforces" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodeFroces" type="462c0819:PsiDirectoryNode" />
+              <item name="Rounds" type="462c0819:PsiDirectoryNode" />
+              <item name="codeforces-round-562-Div-2" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="CodeFroces" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="codeforces" TARGET_NAME="CodeFroces" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="codeforces" RUN_TARGET_NAME="CodeFroces">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bea6d24b-09f9-44bc-a12a-f0d13961437d" name="Default Changelist" comment="" />
+      <created>1558094923275</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558094923275</updated>
+      <workItem from="1558094924457" duration="635000" />
+      <workItem from="1559283544088" duration="4792000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5427000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32891566" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.32891566" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="CMake" order="12" weight="0.32891566" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Rounds/ Codeforces Round 372 (Div. 2)_/A.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rounds/ Codeforces Round 372 (Div. 2)_/B.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rounds/Codeforces Round #382 (Div. 2)/A.cpp" />
+    <entry file="file://$PROJECT_DIR$/Rounds/Codeforces Round 382 (Div. 2)/A.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#1#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1559" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/Makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2194" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rounds/codeforces-round-562-Div-2/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="56">
+            <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rounds/codeforces-round-562-Div-2/B.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+          <folding>
+            <element signature="e#51#69#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="5" column="67" selection-start-line="5" selection-start-column="67" selection-end-line="5" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rounds/codeforces-round-562-Div-2/A.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="4" selection-start-line="4" selection-end-line="10" selection-end-column="16" />
+          <folding>
+            <element signature="e#51#69#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rounds/codeforces-round-562-Div-2/C.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="19" column="32" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="32" />
+          <folding>
+            <element signature="e#51#69#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

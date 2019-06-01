@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/mazharul.islam/CLionProjects/codeforces/codeforces-round-560-Div-3/D.cpp
+iostream
+-
+stdio.h
+-
+algorithm
+-
+set
+-
+math.h
+-
+vector
+-
+
