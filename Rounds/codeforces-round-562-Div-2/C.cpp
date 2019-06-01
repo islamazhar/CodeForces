@@ -7,27 +7,72 @@
 #include <vector>
 #include <algorithm>
 using namespace std;
-#define MAXN 300007
-int arr[MAXN];
-int n,m;
-int distance(int a,int b){
-    if(a>b) return INT_MAX;
 
-}
-int F(int pos, int state) {
-    if(pos ==n) return 0;
-    int prev = arr[pos-state]%n;
-    int val1 = max(distance(prev,arr[pos]),F(pos+1,0));
-    int val2 = max(distance(arr[pos],prev), F(pos+1,1));
-    return min(val1, val2);
+
+#define MAXN 300005
+int arr[MAXN], n, m;
+
+int distance(int a, int b) {
+    if(b < a) {
+        return m-a+b;
+    }
+    else b-a;
 }
 
-int main(void) {
+bool F(int moves)
+{
 
-    arr[0] = -1;
+    int last = 0;
+    // int last1 = 0;
     for(int i=0;i<n;i++) {
+        // arr[i].... arr[i] + moves.......m
+        //cout << i << " " <<last << endl;
+        if(arr[i]  + moves < m) {
+            if(arr[i]+moves >= last) {
+                // last >= arr[i]
+                // last >= arr[i-1]
+                // distance (last and arr[i] ) should be min
+                last = max(last, arr[i]);
+            }
+            else {
+                return 0;
+            }
+        }
+        // arr[i] ....m..0...(moves-m+arr[i])
+        else {
+            if(moves-m+arr[i] < last) {
+                   last = max(arr[i],last);
+            }
+            else {
+                last = last;
+            }
+        }
+    }
+    return 1;
+}
+
+int main(void)
+{
+    scanf("%d %d",&n,&m);
+    for(int i=0;i<n;i++){
         scanf("%d",&arr[i]);
     }
-    F(1,0);
+    int lo = 0;
+    int hi = INT_MAX;
+    int mid ;
+    // cout << F(0) << endl;
 
+    while(lo < hi) {
+        mid = lo + (hi-lo) / 2;
+        //cout << lo << " " << hi << " " << mid << endl;
+        if(F(mid)) {
+            hi = mid;
+        }
+        else {
+            lo = mid+1;
+        }
+    }
+    printf("%d\n",hi);
+
+    return 0;
 }
